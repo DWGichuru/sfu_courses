@@ -1,0 +1,119 @@
+{
+    "courses": [
+        { "id": 1, "name": "MATH151", "credit": 3},
+        { "id": 2, "name": "CMPT130", "credit": 3},
+        { "id": 3, "name": "CHEM120", "credit": 3},
+        { "id": 4, "name": "PHYS140", "credit": 4},
+        { "id": 5, "name": "MATH232", "credit": 3},
+        { "id": 6, "name": "MATH152", "credit": 3},
+        { "id": 7, "name": "PHYS141", "credit": 4},
+        { "id": 8, "name": "MSE101W", "credit": 3},
+        { "id": 9, "name": "MSE102", "credit": 3},
+        { "id": 10, "name": "MATH251", "credit": 3},
+        { "id": 11, "name": "MATH310", "credit": 3},
+        { "id": 12, "name": "MSE110", "credit": 3},
+        { "id": 13, "name": "ELECTIVE", "credit": 3},
+        { "id": 14, "name": "MSE221", "credit": 4},
+        { "id": 15, "name": "MSE220", "credit": 3},
+        { "id": 16, "name": "MSE250", "credit": 4},
+        { "id": 17, "name": "MSE100", "credit": 3},
+        { "id": 18, "name": "MSE222", "credit": 4},
+        { "id": 19, "name": "MSE251", "credit": 4},
+        { "id": 20, "name": "MSE280", "credit": 3},
+        { "id": 21, "name": "MSE223", "credit": 4},
+        { "id": 22, "name": "MSE193", "credit": 3},
+        { "id": 23, "name": "MSE293", "credit": 3},
+        { "id": 24, "name": "MSE210", "credit": 3},
+        { "id": 25, "name": "MSE211", "credit": 3},
+        { "id": 26, "name": "ELECTIVE", "credit": 3},
+        { "id": 27, "name": "ELECTIVE", "credit": 3},
+        { "id": 28, "name": "MSE300", "credit": 3},
+        { "id": 29, "name": "MSE311", "credit": 3},
+        { "id": 30, "name": "MSE353", "credit": 4},
+        { "id": 31, "name": "MSE381", "credit": 4}
+    ],
+    "availability":[
+        {
+            "sem_id":1,
+            "courses": [1,2,3,4,14,15,16,17,23]
+        },
+        {
+            "sem_id":2,
+            "courses": [5,6,7,8,9,18,19,20,21,24,25,26,27]
+        },
+        {
+            "sem_id":3,
+            "courses": [10,11,12,13,22,28,29,30,31]
+        }
+    ],
+    "pre-requisites":[
+        {
+            "course_id":5,
+            "pre_req_id": [1]
+        },
+        {
+            "course_id":6,
+            "pre_req_id": [1]
+        },
+        {
+            "course_id":7,
+            "pre_req_id": [4]
+        },
+        {
+            "course_id":10,
+            "pre_req_id": [6]
+        },
+        {
+            "course_id":11,
+            "pre_req_id": [6,5]
+        },
+        {
+            "course_id":14,
+            "pre_req_id": [4,6]
+        },
+        {
+            "course_id":15,
+            "pre_req_id": [3,4]
+        },
+        {
+            "course_id":16,
+            "pre_req_id": [7,5,11]
+        },
+        {
+            "course_id":18,
+            "pre_req_id": [4,6,11]
+        },
+        {
+            "course_id":19,
+            "pre_req_id": [6]
+        },
+        {
+            "course_id":20,
+            "pre_req_id": [16,11]
+        },
+        {
+            "course_id":21,
+            "pre_req_id": [4,19,11]
+        },
+        {
+            "course_id":24,
+            "pre_req_id": [7,1]
+        },
+        {
+            "course_id":25,
+            "pre_req_id": [6,5]
+        },
+        {
+            "course_id":29,
+            "pre_req_id": [18,19]
+        },
+        {
+            "course_id":30,
+            "pre_req_id": [19]
+        },
+        {
+            "course_id":31,
+            "pre_req_id": [20]
+        }
+    ]
+}
