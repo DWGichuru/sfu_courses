@@ -1,5 +1,54 @@
 {
     "courses": [
+        {"id": 1,"name": "MSE100", "full_name": "Engineering Graphics and Design","credit": 3, "desc": "The fundamentals of graphical communication in order to help students think and communicate visually in the context of engineering design. The course focuses on concepts such as isometric, multi-view sketches, section view, and auxiliary views, tolerancing and dimensioning, as well as fundamentals of schematics and printed circuit boards design. Various computer aided design software are used" },
+        {"id": 2,"name": "MSE101W","full_name": "Process, Form, and Convention in Professional Genres","credit": 3, "desc": "The course teaches fundamentals of informative and persuasive communication for professional engineers and computer scientists in order to assist students in thinking critically about various contemporary technical, social, and ethical issues. It focuses on communicating technical information clearly and concisely, managing issues of persuasion when communicating with diverse audiences, presentation skills, and teamwork. Prerequisite: Corequisite: CMPT 106 or MSE 102. "},
+        {"id": 3,"name": "MSE102","full_name": "Applied Science, Technology and Society","credit": 3, "desc": "Reviews the different modes of thought characteristic of science, engineering and computing. Examines the histories and chief current research issues in these fields. Considers the ethical and social responsibilities of engineering and computing work"},
+        {"id": 4,"name": "MSE110","full_name": "Mechatronics Design 1","credit": 3, "desc": "First year project course designed to provide students with a first exposure to the challenges of project organization. Students are responsible for designing and constructing a mechanical robot optimized to solve a particular chosen task. The engineering challenges of the project are expected to focus half on mechanical design and half on control algorithm design and implementation. "},
+        {"id": 5,"name": "MSE111","full_name": "Mechatronics for non-Engineers","credit": 3, "desc": "Project course designed to provide non-engineering students with a first exposure to mechatronic systems engineering concepts and the challenges of project organization. Students are responsible for designing and constructing a mechanical robot optimized to solve a particular chosen task. The engineering challenges of the project are expected to focus on mechanical design, control algorithm design and implementation"},
+        {"id": 6,"name": "MSE193","full_name": "Optional Job Practicum","credit": 3,"desc": "Four month internship of a non-technical nature. May be taken at any point during the program but will not count toward one of the three mandatory co-op work terms. Credit is awarded as in MSE 293. Units from this course do not count towards the units required for an SFU degree."},
+        {"id": 7,"name": "MSE210","full_name": "Engineering Measurement and Data Analysis","credit": 3,"desc": "An introduction to methods to collect and analyse engineering data. Topics include the Engineering data representation, Discrete and continuous probability density functions, Engineering measurements, Error analysis, Introduction to sensor interfaces, Introduction to physical sensors, Introduction to sensor signal conditioning, Noise, Test of hypotheses, Linear and nonlinear regression, and Design of experiments. Prerequisite: PHYS 141 or equivalent. MATH 150 or MATH 151. Students with credit for ENSC 280 or PHYS 231 may not take MSE 210 for further credit."},
+        {"id": 8,"name": "MSE211","full_name": "Computational Methods for Engineers","credit": 3,"desc": "A course focusing on solving engineering problems with computational methods. Prerequisite: MATH 152 or equivalent, and MATH 232 or equivalent. Students with credit for MACM 316 may not take this course for further credit."},
+        {"id": 9,"name": "MSE220","full_name": "Engineering Materials","credit": 3,"desc": "Materials, their structures, properties and performance; crystal structures and instruments for structure determination; polymers, ceramics, and composites; quality control and reliability. Prerequisite: CHEM 120 or 121; PHYS 140 or 120. Students with credit for ENSC 231 or ENSC 330 may not take MSE 220 for further credit."},
+        {"id": 10,"name": "MSE221","full_name": "Statics and Strength of Materials","credit": 4,"desc": "Covers fundamental concepts of Statics and Strength of Materials. Statics: 2D and 3D force and moment systems. equilibrium of rigid bodies, analysis of structures, distributed forces, centroids and moments of inertia. Strength of Materials: introduction to stress and strain, axial loading, torsion, pure bending, analysis and design of beams for bending and combined loading, deflection of beams, and transformation of stresses. Prerequisite: PHYS 140, MATH 152. Students with credit for ENSC 281 or ENSC 385 may not take this course for further credit."},
+        {"id": 11,"name": "MSE222","full_name": "Kinematics and Dynamics of Rigid Bodies and Mechanisms","credit": 4,"desc": "Planar and 3D motions kinematics and kinetics of rigid bodies and mechanisms; linkages, gears, cams; synthesis and analysis of mechanisms; consideration of the static and dynamic forces in machines; vibration analysis, response to shock, motion and force transmissibility, vibration isolation. Prerequisite: PHYS 140, MATH 152, and 310. Students with credit for ENSC 282 may not take MSE 222 for further credit."},
+        {"id": 12,"name": "MSE223","full_name": "Introduction to Fluid Mechanics","credit": 4,"desc": "Physical properties of fluids and fundamental concepts in fluid mechanics. Hydrostatics. Conservation laws for mass, momentum and energy. Flow similarity and dimensional analysis as applied to engineering problems in fluid mechanics. Laminar and turbulent flow. Engineering applications such as flow measurement, flow in pipes and fluid forces on moving bodies. Prerequisite: PHYS 140, MATH 251, and 310. Students with credit for ENSC 283 may not take MSE 223 for further credit."},
+        {"id": 13,"name": "MSE250","full_name": "Electric Circuits 1","credit": 4,"desc": "This course will cover the following topics: fundamental electrical circuit quantities, and circuit elements; circuits laws such as Ohm law, Kirchoff's voltage and current laws, along with series and parallel circuits; operational amplifiers; network theorems; nodal and mesh methods; analysis of natural and step response of first (RC and RL), as well as second order (RLC) circuits; real, reactive and rms power concepts. In addition, the course will discuss the worker safety implications of both electricity and common laboratory practices such as soldering. Prerequisite: PHYS 121 and 131, or PHYS 126 and 131, or PHYS 141, and MATH 232 and 310. MATH 310 may be taken concurrently. Students with credit for ENSC 125 or 220 may not take MSE 250 for further credit. Quantitative."},
+        {"id": 14,"name": "MSE251","full_name": "Electronic Circuits","credit": 4,"desc": "Introduces the basic electronic components, amplifiers, diodes, and oscillators. Fundamentals of logic design. Prerequisite: MSE 250 or ENSC 220. Students with credit for ENSC 225 or 226 may not take MSE 251 for further credit."},
+        {"id": 15,"name": "MSE280","full_name": "Linear Systems","credit": 3,"desc": "The objectives of this course are to cover the modelling and analysis of continuous and discrete signals using linear techniques. Topics covered include: a review of Laplace transforms; methods for the basic modelling of physical systems; discrete and continuous convolution; impulse and step response; transfer functions and filtering; the continuous Fourier transform and its relationship to the Laplace transform; frequency response and Bode plots; sampling; the Z-transform. Prerequisite: MSE 250 (or ENSC 220) and MATH 310. Students with credit for ENSC 380 may not take MSE 280 for further credit."},
+        {"id": 16,"name": "MSE293","full_name": "Industrial Internship 1","credit": 3,"desc": "First four month internship in industry. Credit is given as pass/withdraw/fail (P/W/F) only, based on the employer's and co-operative education co-ordinator's evaluations. Units from this course do not count towards the units required for an SFU degree."},
+        {"id": 17,"name": "MSE294","full_name": "Special Internship 1","credit": 3,"desc": "Four month internship in industry or university research environment. Credit is awarded as in MSE 293. Prior approval of Internship Co-ordinator required. Units from this course do not count towards the units required for an SFU degree."},
+        {"id": 18,"name": "MSE300","full_name": "The Business of Engineering 1","credit": 3,"desc": "Covers topics in decision theory and engineering economics including: gap analysis, multi-attribute utility theory, discounted cash flow fundamentals, inflation, depreciation, tax, financial analysis, uncertaintly and optimization. Prerequisite: More than 75 units. Students with credit for ENSC 201 or 311 may not take MSE 300 for further credit."},
+        {"id": 19,"name": "MSE310","full_name": "Introduction to Electro-Mechanical Sensors and Actuators","credit": 4,"desc": "This course provides an introduction to sensors and actuators for electromechanical, computer-controlled machines and devices. Topics include operating principles, design considerations, and applications of analog sensors, digital transducers, stepper motors, continuous-drive actuators, and drive system electronics. Component integration and design considerations are studied through examples selected from applications of machine tools, mechatronics, precision machines, robotics, aerospace systems, and ground and underwater vehicles. Laboratory exercises strengthen the understanding of component performance, system design and integration. Prerequisite: MSE 280 or ENSC 380. Students with credit for ENSC 387 may not take MSE 310 for further credit."},
+        {"id": 20,"name": "MSE311","full_name": "Introduction to Microelectromechanical Systems","credit": 3,"desc": "An introduction to microelectromechanical systems, covering thin film processing technologies, bulk and surface micromachining, and MEMS applications. Prerequisite: MSE 222 (or ENSC 282), MSE 251 (or ENSC 226). Students with credit for ENSC 331 may not take MSE 311 for further credit."},
+        {"id": 21,"name": "MSE312","full_name": "Mechatronics Design 2","credit": 4,"desc": "Interweaves mechanisms, electronics, sensors, and control strategies with software and information technology to examine the demands and ideas of customers and find the most efficient, cost-effective method to transform their goals into successful commercial products. Most of the term is devoted to a significant design project in which student groups work independently and competitively, applying the design process to a project goal set by the faculty co-ordinator. Prerequisite: MSE 110 (or ENSC 182), MSE 320 (or ENSC 382), MSE 380 (or ENSC 381). Students with credit for ENSC 384 may not take MSE 312 for further credit."},
+        {"id": 22,"name": "MSE320","full_name": "Machine Design","credit": 4,"desc": "Review of stress and strain in solids, superposition, energy theorems, theories of failure, elastic and inelastic analysis of symmetrical bending, torsion of circular members, and virtual work. Adequacy assessment and synthesis of machine elements with a focus on the design process. Static failure of ductile and brittle materials, fatigue analysis of structures. Topics include the design of welds, bolted connections, springs and shafts. Solution strategies include both analytical and finite element methods. Prerequisite: MSE 100 or ENSC 104, MSE 220 or ENSC 231, MSE 221 or ENSC 281. MSE 100 may be taken concurrently. Students with credit for ENSC 382 may not take MSE 320 for further credit."},
+        {"id": 23,"name": "MSE321","full_name": "Engineering Thermodynamics and Heat Transfer","credit": 4,"desc": "Energy transfer as work and heat, the First Law of thermodynamics. Properties and states of simple substances. Control-mass and control-volume analyses. Entropy, the Second Law of thermodynamics. Carnot cycle. Energy conversion systems; internal combustion engines, power plants and refrigeration cycles. Heat transfer by conduction, convection, and radiation. Formulation and solution of steady and transient problems. Cooling of microelectronics, thermal solutions. Prerequisite: MATH 251, PHYS 140, and MSE 223. Students with credit for ENSC 388 may not take MSE 321 for further credit."},
+        {"id": 24,"name": "MSE352","full_name": "Digital Logic and Microcontrollers","credit": 4,"desc": "Introduction to digital systems and number representation. Combinational systems and sequential logic. Counter design and registers. Synchronous sequential design. Microprocessor applications, memory and I/O systems. Microcontrollers: features, architecture and programming model. Introduction to assembly language and microcontroller programming. Addressing modes, assembling and linking programs. Timer/counter programming. ADC, DAC, and sensor interfacing. Prerequisite: CMPT 130 and either MSE 251 or ENSC 226."},
+        {"id": 25,"name": "MSE353","full_name": "Power Electronics and Electric Machinery","credit": 4,"desc": "3-phase circuits, power quality, and transformers, Characteristic of power semiconductor devices, Line frequency controlled rectifiers, Buck, boost, and buck-boost dc-dc power converters, Pulse Width Modulation (PWM) techniques, Voltage source inverters and full-bridge topology, Introduction to dc machines, Introduction to stepper motors, Introduction to induction motors, Introduction to synchronous machines. Prerequisite: MSE 251 (previously ENSC 226)."},
+        {"id": 26,"name": "MSE380","full_name": "Systems Modeling and Simulation","credit": 3,"desc": "Introduction to systems modeling and analysis. Application to engineering systems including: mechanical, electrical, thermal, and fluid systems. Allows the student to acquire, in a time-efficient and uncomplicated manner, knowledge in the formation and construction of dynamic models. The simulation models that the student will design in this course accommodate these analyses, with the construction of realistic hypotheses and elaborate behavior models. Prerequisite: MSE 221 (or ENSC 281), MSE 222 (or ENSC 282), MSE 251 (or ENSC 226). Students with credit for ENSC 381 may not take MSE 380 for further credit."},
+        {"id": 27,"name": "MSE381","full_name": "Feedback Control Systems","credit": 4,"desc": "This course is an introduction to the analysis, design, and applications of continuous time linear control systems. Topics include transfer function representation of open and closed loop systems, time domain specifications and steady state error, sensitivity analysis, time and frequency response, and stability criteria. It includes a treatment of methods for the analysis of control systems based on the root locus, Bode plots and Nyquist criterion, and their use in the design of PID, and lead-lag compensation. Lab work is included in this course. Prerequisite: MSE 280 (or ENSC 380). Students with credit for ENSC 383 may not take MSE 381 for further credit."},
+        {"id": 28,"name": "MSE390","full_name": "Special Topics in Mechatronic Systems Engineering","credit": 3,"desc": "Special Topics in Mechatronic Systems Engineering. Prerequisite: Permission of the undergraduate curriculum chair."},
+        {"id": 29,"name": "MSE391","full_name": "Special Topics in Mechatronic Systems Engineering","credit": 4,"desc": "Special Topics in Mechatronic Systems Engineering. Prerequisite: Permission of the undergraduate curriculum chair."},
+        {"id": 30,"name": "MSE393","full_name": "Industrial Internship 2","credit": 3,"desc": "Second four month internship in industry. Credit is awarded as in MSE 293. Units from this course do not count towards the units required for an SFU degree. Prerequisite: MSE 293 or 294."},
+        {"id": 31,"name": "MSE394","full_name": "Special Internship 2","credit": 3,"desc": "Four month internship in industry or university research environment. Credit is awarded as in MSE 293. Units from this course do not count towards the units required for an SFU degree. Prerequisite: MSE 293 or 294 and approval of internship co-ordinator required."},
+        {"id": 32,"name": "MSE400","full_name": "The Business of Engineering","credit": 3,"desc": "Concepts covered include entrepreneurship, marketing, financing, business plan, project management skills as well as facilitation, communication and negotiation. Students will experience what it is like to be part of a start-up company with a diverse project team. Prerequisite: MSE 300 (or ENSC 311). Students with credit for ENSC 312 may not take MSE 400 for further credit"},
+        {"id": 33,"name": "MSE401W","full_name": "Project Documentation and Group Dynamics","credit": 1,"desc": "This course is integrated with an MSE project course (MSE 410) that provides practical experience with the design process for development projects. Topics include project management, team writing, project documentation (proposals, functional and design specifications, progress reports, and users manuals), group dynamics and dispute resolution. Prerequisite: Either both of ENSC 101W and ENSC 102 or one of MSE 101W, ENSC 105W or CMPT 105W. Corequisite: MSE 410. Students with credit for ENSC 305W may not take MSE 401W for further credit. Writing."},
+        {"id": 34,"name": "MSE402","full_name": "Engineering Ethics, Law, and Professional Practice","credit": 2,"desc": "This course provides an introduction to the engineering profession, professional practice, engineering law and ethics, including the issues of worker and public safety. It also offers opportunities to explore the social implications and environmental impacts of technologies, including sustainability, and to consider engineers' responsibility to society. Prerequisite: 100 units including one of MSE 102, ENSC 100, ENSC 106, or CMPT 106. Students with credit for ENSC 406 may not take MSE 402 for further credit."},
+        {"id": 35,"name": "MSE403","full_name": "Technology Entrepreneurship 1","credit": 1,"desc": "Technology entrepreneurship project facilitation for Business and Mechatronic Systems Engineering student teams in the Technology Entrepreneurship @ SFU program. Entrepreneurship seminars, workshops and learning labs. Presentation skills to attract financing for early stage entrepreneurial initiatives. Students with credit for BUS 404 cannot take MSE 403 for further credit. Corequisite: MSE410-3. Students with credit for BUS 404 cannot take MSE 403 for further credit."},
+        {"id": 36,"name": "MSE404","full_name": "Technology Entrepreneurship 2","credit": 1,"desc": "Technology entrepreneurship project facilitation for Business and Mechatronic Systems Engineering student teams in the Technology Entrepreneurship @ SFU program. Entrepreneurship seminars, workshops and learning labs. Presentation skills to attract financing for development and growth stage entrepreneurial initiatives. Students with credit for BUS 405 cannot take MSE 404 for further credit. Corequisite: MSE 411. Students with credit for BUS 405 cannot take MSE 404 for further credit."},
+        {"id": 37,"name": "MSE405W","full_name": "The Business of Engineering 2, Entrepreneurship for Engineers","credit": 4,"desc": "Through the development of a business plan, MSE 405W simulates entrepreneurial activities associated with launching a technology-based start-up company. In a traditional lecture and tutorial format, students are introduced to practical and theoretical business subject-matter in engineering. Students participate in a team project and use collaborative writing strategies to produce a business plan and presentation relating to a technology-based start-up venture. Components of the business plan are submitted in multiple stages including a concept summary, proposal, marketing and operation plans, and executive summary. Prerequisite: MSE 300 or ENSC 311. Students with credits for ENSC 312 may not take this course for further credit. Writing."},
+        {"id": 38,"name": "MSE410","full_name": "Capstone Design Technical Project 1","credit": 3,"desc": "Students will combine their technical and mechatronic design knowledge to conceive, and design a product. A comprehensive report is required at the end of the term. Prerequisite: Completion of at least 24 units from the upper division list of MSE curriculum courses and completion of two co-op terms (MSE 293 or MSE 294 and MSE 393 or MSE 394). Must not be taken concurrently with MSE 493 or MSE 494. Students with credit for ENSC 405W may not take this course for further credit."},
+        {"id": 39,"name": "MSE411","full_name": "Capstone Design Technical Project 2","credit": 3,"desc": "Students will apply their technical knowledge to develop a prototype system representing a product that was designed earlier in MSE 410. Students will then present it to a panel of engineers, faculty and student members. Prerequisite: MSE 410. Must not be taken concurrently with MSE 493 or MSE 494. Students with credit for ENSC 442 may not take MSE 411 for further credit."},
+        {"id": 40,"name": "MSE411W","full_name": "Capstone Design Technical Project 2","credit": 3,"desc": "Students will apply their technical, marketing and entrepreneurship knowledge to develop a product that was designed earlier in MSE 410. Students will then present and be able to see it to a panel of engineers, business and investment community members. Prerequisite: MSE 410. Students with credit for ENSC 442 may not take MSE 411W for further credit. Writing."},
+        {"id": ,"name": "","full_name": "","credit": ,"desc": ""},
+        {"id": ,"name": "","full_name": "","credit": ,"desc": ""},
+        {"id": ,"name": "","full_name": "","credit": ,"desc": ""},
+        {"id": ,"name": "","full_name": "","credit": ,"desc": ""},
+        {"id": ,"name": "","full_name": "","credit": ,"desc": ""},
+        {"id": ,"name": "","full_name": "","credit": ,"desc": ""},
+        {"id": ,"name": "","full_name": "","credit": ,"desc": ""},
+        {"id": ,"name": "","full_name": "","credit": ,"desc": ""},
+        
         { "id": 1, "name": "MATH151", "credit": 3},
         { "id": 2, "name": "CMPT130", "credit": 3},
         { "id": 3, "name": "CHEM120", "credit": 3},
@@ -7,7 +56,7 @@
         { "id": 5, "name": "MATH232", "credit": 3},
         { "id": 6, "name": "MATH152", "credit": 3},
         { "id": 7, "name": "PHYS141", "credit": 4},
-        { "id": 8, "name": "MSE101W", "credit": 3},
+        { "id": 8, "name": "MSE101W", "credit": 3, "desc": "The course teaches fundamentals of informative and persuasive communication for professional engineers and computer scientists in order to assist students in thinking critically about various contemporary technical, social, and ethical issues. It focuses on communicating technical information clearly and concisely, managing issues of persuasion when communicating with diverse audiences, presentation skills, and teamwork"},
         { "id": 9, "name": "MSE102", "credit": 3},
         { "id": 10, "name": "MATH251", "credit": 3},
         { "id": 11, "name": "MATH310", "credit": 3},
@@ -34,86 +83,90 @@
     ],
     "availability":[
         {
-            "sem_id":1,
+            "semId":1,
             "courses": [1,2,3,4,14,15,16,17,23]
         },
         {
-            "sem_id":2,
+            "semId":2,
             "courses": [5,6,7,8,9,18,19,20,21,24,25,26,27]
         },
         {
-            "sem_id":3,
+            "semId":3,
             "courses": [10,11,12,13,22,28,29,30,31]
         }
     ],
-    "pre-requisites":[
+    "preRequisites":[
         {
-            "course_id":5,
-            "pre_req_id": [1]
+            "courseId":5,
+            "preReqId": [1]
         },
         {
-            "course_id":6,
-            "pre_req_id": [1]
+            "courseId":8,
+            "preReqId":[9]
         },
         {
-            "course_id":7,
-            "pre_req_id": [4]
+            "courseId":6,
+            "preReqId": [1]
         },
         {
-            "course_id":10,
-            "pre_req_id": [6]
+            "courseId":7,
+            "preReqId": [4]
         },
         {
-            "course_id":11,
-            "pre_req_id": [6,5]
+            "courseId":10,
+            "preReqId": [6]
         },
         {
-            "course_id":14,
-            "pre_req_id": [4,6]
+            "courseId":11,
+            "preReqId": [6,5]
         },
         {
-            "course_id":15,
-            "pre_req_id": [3,4]
+            "courseId":14,
+            "preReqId": [4,6]
         },
         {
-            "course_id":16,
-            "pre_req_id": [7,5,11]
+            "courseId":15,
+            "preReqId": [3,4]
         },
         {
-            "course_id":18,
-            "pre_req_id": [4,6,11]
+            "courseId":16,
+            "preReqId": [7,5,11]
         },
         {
-            "course_id":19,
-            "pre_req_id": [6]
+            "courseId":18,
+            "preReqId": [4,6,11]
         },
         {
-            "course_id":20,
-            "pre_req_id": [16,11]
+            "courseId":19,
+            "preReqId": [6]
         },
         {
-            "course_id":21,
-            "pre_req_id": [4,19,11]
+            "courseId":20,
+            "preReqId": [16,11]
         },
         {
-            "course_id":24,
-            "pre_req_id": [7,1]
+            "courseId":21,
+            "preReqId": [4,19,11]
         },
         {
-            "course_id":25,
-            "pre_req_id": [6,5]
+            "courseId":24,
+            "preReqId": [7,1]
         },
         {
-            "course_id":29,
-            "pre_req_id": [18,19]
+            "courseId":25,
+            "preReqId": [6,5]
         },
         {
-            "course_id":30,
-            "pre_req_id": [19]
+            "courseId":29,
+            "preReqId": [18,19]
         },
         {
-            "course_id":31,
-            "pre_req_id": [20]
+            "courseId":30,
+            "preReqId": [19]
+        },
+        {
+            "courseId":31,
+            "preReqId": [20]
         }
     ]
 }
