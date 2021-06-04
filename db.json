@@ -39,134 +39,166 @@
         {"id": 37,"name": "MSE405W","full_name": "The Business of Engineering 2, Entrepreneurship for Engineers","credit": 4,"desc": "Through the development of a business plan, MSE 405W simulates entrepreneurial activities associated with launching a technology-based start-up company. In a traditional lecture and tutorial format, students are introduced to practical and theoretical business subject-matter in engineering. Students participate in a team project and use collaborative writing strategies to produce a business plan and presentation relating to a technology-based start-up venture. Components of the business plan are submitted in multiple stages including a concept summary, proposal, marketing and operation plans, and executive summary. Prerequisite: MSE 300 or ENSC 311. Students with credits for ENSC 312 may not take this course for further credit. Writing."},
         {"id": 38,"name": "MSE410","full_name": "Capstone Design Technical Project 1","credit": 3,"desc": "Students will combine their technical and mechatronic design knowledge to conceive, and design a product. A comprehensive report is required at the end of the term. Prerequisite: Completion of at least 24 units from the upper division list of MSE curriculum courses and completion of two co-op terms (MSE 293 or MSE 294 and MSE 393 or MSE 394). Must not be taken concurrently with MSE 493 or MSE 494. Students with credit for ENSC 405W may not take this course for further credit."},
         {"id": 39,"name": "MSE411","full_name": "Capstone Design Technical Project 2","credit": 3,"desc": "Students will apply their technical knowledge to develop a prototype system representing a product that was designed earlier in MSE 410. Students will then present it to a panel of engineers, faculty and student members. Prerequisite: MSE 410. Must not be taken concurrently with MSE 493 or MSE 494. Students with credit for ENSC 442 may not take MSE 411 for further credit."},
-        {"id": 40,"name": "MSE411W","full_name": "Capstone Design Technical Project 2","credit": 3,"desc": "Students will apply their technical, marketing and entrepreneurship knowledge to develop a product that was designed earlier in MSE 410. Students will then present and be able to see it to a panel of engineers, business and investment community members. Prerequisite: MSE 410. Students with credit for ENSC 442 may not take MSE 411W for further credit. Writing."},
-        {"id": ,"name": "","full_name": "","credit": ,"desc": ""},
-        {"id": ,"name": "","full_name": "","credit": ,"desc": ""},
-        {"id": ,"name": "","full_name": "","credit": ,"desc": ""},
-        {"id": ,"name": "","full_name": "","credit": ,"desc": ""},
-        {"id": ,"name": "","full_name": "","credit": ,"desc": ""},
-        {"id": ,"name": "","full_name": "","credit": ,"desc": ""},
-        {"id": ,"name": "","full_name": "","credit": ,"desc": ""},
-        {"id": ,"name": "","full_name": "","credit": ,"desc": ""},
-        
-        { "id": 1, "name": "MATH151", "credit": 3},
-        { "id": 2, "name": "CMPT130", "credit": 3},
-        { "id": 3, "name": "CHEM120", "credit": 3},
-        { "id": 4, "name": "PHYS140", "credit": 4},
-        { "id": 5, "name": "MATH232", "credit": 3},
-        { "id": 6, "name": "MATH152", "credit": 3},
-        { "id": 7, "name": "PHYS141", "credit": 4},
-        { "id": 8, "name": "MSE101W", "credit": 3, "desc": "The course teaches fundamentals of informative and persuasive communication for professional engineers and computer scientists in order to assist students in thinking critically about various contemporary technical, social, and ethical issues. It focuses on communicating technical information clearly and concisely, managing issues of persuasion when communicating with diverse audiences, presentation skills, and teamwork"},
-        { "id": 9, "name": "MSE102", "credit": 3},
-        { "id": 10, "name": "MATH251", "credit": 3},
-        { "id": 11, "name": "MATH310", "credit": 3},
-        { "id": 12, "name": "MSE110", "credit": 3},
-        { "id": 13, "name": "ELECTIVE", "credit": 3},
-        { "id": 14, "name": "MSE221", "credit": 4},
-        { "id": 15, "name": "MSE220", "credit": 3},
-        { "id": 16, "name": "MSE250", "credit": 4},
-        { "id": 17, "name": "MSE100", "credit": 3},
-        { "id": 18, "name": "MSE222", "credit": 4},
-        { "id": 19, "name": "MSE251", "credit": 4},
-        { "id": 20, "name": "MSE280", "credit": 3},
-        { "id": 21, "name": "MSE223", "credit": 4},
-        { "id": 22, "name": "MSE193", "credit": 3},
-        { "id": 23, "name": "MSE293", "credit": 3},
-        { "id": 24, "name": "MSE210", "credit": 3},
-        { "id": 25, "name": "MSE211", "credit": 3},
-        { "id": 26, "name": "ELECTIVE", "credit": 3},
-        { "id": 27, "name": "ELECTIVE", "credit": 3},
-        { "id": 28, "name": "MSE300", "credit": 3},
-        { "id": 29, "name": "MSE311", "credit": 3},
-        { "id": 30, "name": "MSE353", "credit": 4},
-        { "id": 31, "name": "MSE381", "credit": 4}
+        {"id": 40,"name": "MSE412","full_name": "Neuromodulation Technologies and Applications in Brain Health","credit": 3,"desc": "Introduction into neuromodulation technologies and their applications in advancing brain research, augmenting healthy functions, and treating diseases. By covering topics including basics of nervous system, bio-signal processing, existing technologies, safety, regulations and steps in designing and commercializing neuromodulation technology, students are equipped with the know-how to develop a neurotechnology device. Prerequisite: MSE 280."},
+        {"id": 41,"name": "MSE420","full_name": "Introduction to Biomechanical Engineering","credit": 3,"desc": "Students apply mechanical theory to the study of biological systems and the human body, focusing on advanced mechanical theory, impact analysis and optimization methods with specific application to the study of human movement and injury. Medical device design, assessment, patenting and government regulation (FDA/Health Canada) are discussed. Prerequisite: MSE 220 (or ENSC 231), MSE 222 (or ENSC 282) and a minimum of 80 credits."},
+        {"id": 42,"name": "MSE421","full_name": "Advanced Vibration","credit": 3,"desc": "Advanced introduction to vibration, free vibration, harmonic excitation of undamped systems, harmonic excitation of damped systems, base excitation, rotating unbalance, impulse response, response to an arbitrary input, response to an arbitrary periodic input, transform method, two degree of freedom model, more than two degrees of freedom, systems with viscous damping, Lagrange's equations, vibrations of string or cable, vibration of rods and bars, torsional vibration, bending vibration of a beam, finite element method. Prerequisite: MSE 222 (or ENSC 282), MSE 380 and a minimum of 80 units. Students with credit for ENSC 436 may not take MSE 421 for further credit."},
+        {"id": 43,"name": "MSE422","full_name": "Fuel Cell Systems","credit": 3,"desc": "The scientific and engineering aspects of fuel cell systems, with emphasis on fundamental electrochemistry, applied thermodynamics, and transport phenomena. Students will apply course concepts within hands-on laboratory projects that design, model/simulate, build, and test microfluidic fuel cell devices. Prerequisite: MSE 223 (or ENSC 283), MSE 321 (or ENSC 388) and a minimum of 80 credits."},
+        {"id": 44,"name": "MSE423","full_name": "Energy Conversion","credit": 3,"desc": "Provides a detailed understanding of thermal energy conversion systems on the basis of the laws of thermodynamics. A main goal is to understand the processes in a broad variety of energy converging devices (e.g. power cycles). Some emphasis will be put on the study of the efficiency of energy conversion devices and efficiency improvements by changing the process details. Prerequisite: MSE 223 (or ENSC 283), MSE 321 (or ENSC 388, or PHYS 344) and a minimum of 80 credits."},
+        {"id": 45,"name": "MSE424","full_name": "Microfluidics","credit": 3,"desc": "The fundamentals and applications of transport phenomena in microstructures. The main objective is to understand the linkages between theoretical processes and practical applications, with particular emphasis on mechatronic systems. Microfluidic tools and methods will be applied in hands-on laboratory projects that design, model/simulate, build, and test microfluidic devices. Prerequisite: MSE 223 (or ENSC 283), MSE 321 (or ENSC 388) and a minimum of 80 credits."},
+        {"id": 46,"name": "MSE425","full_name": "Nano Manufucturing","credit": 3,"desc": "Fundamentals of nanotechnology, nanofabrication and state of the art in nanomanufacturing engineering. Value-added processes to control matter at the nanoscale in one, two, and three dimensions for reproducible, commercial-scale production. Introduction to nanofabrication techniques, processes, and nanometer products. Prerequisite: CHEM 120, PHYS 140, PHYS 141 and a minimum of 80 credits."},
+        {"id": 47,"name": "MSE426","full_name": "Introduction to Engineering Design Optimization","credit": 3,"desc": "Theories, methods, and applications of optimization in support of engineering design. Topics include classic optimization methods, metaheuristics and evolutionary algorithms, Design of Experiments, and meta model-based design optimization approaches. Prerequisite: Math 232, MATH 251, MSE 320 or ENSC 382 and a minimum of 80 credits."},
+        {"id": 48,"name": "MSE427","full_name": "Finite Element Analysis","credit": 3,"desc": "Overview of the finite element method (FEM) and its use in industry; finite element procedures with applications to the solution of general problems in 2-D and 3-D solid, structural, fluid mechanics, and heat and mass transfer; continuum mechanics equations; Galerkin and other residual methods; Potential energy method; practice with FEA software tools with guidelines for real-world applications. Prerequisite: MSE 280 or ENSC 380, MSE 320 or ENSC 382, MSE 321 or ENSC 388 and a minimum of 80 credits. Students who have taken ENSC 888 or equivalent cannot take this course for further credit."},
+        {"id": 49,"name": "MSE428","full_name": "Design of Mechanism","credit": 3,"desc": "Introduction to mechanisms: linkages, cams, gears, Geneva wheels, etc. Displacement analyses of mechanisms, limit positions, time ratio, and transmission angles. Graphical synthesis of mechanisms, function, path and motion generation. Analytical synthesis of mechanisms: Freudenstein equation and standard dyad method. Coupler curves and mechanism cognates. Cam follower curve synthesis, design of cam profiles using graphical and analytical methods. Gear analysis and design: ordinary and planetary gear trains. Prerequisite: MSE 100 and MSE 222."},
+        {"id": 50,"name": "MSE429","full_name": "Advanced Kinematics for Robotic Systems","credit": 3,"desc": "Introduction to kinematics of robot manipulators (serial and parallel). Serial: Forward and inverse kinematics for manipulators with spherical and non-spherical wrists. Parallel: Loop-closure equations and methods for solving polynomial systems. Trajectory generation: Joint and Cartesian spaces. Jacobians, velocity and static force analyses, singularities (kinematic, static and architectural). Introduction to dynamics. Prerequisite: MSE 222. Students with credit for MSE 490 - Advanced Kinematics for Robotic Systems (Fall 2016) cannot take MSE 429 for further credit. ENSC students declared as Systems Option majors may not take this course"},
+        {"id": 51,"name": "MSE450","full_name": "Real-Time and Embedded Control Systems","credit": 3,"desc": "Focuses on implementation and design of embedded computer control systems used in mechatronics and other applications. Many of these systems are real-time in nature, meaning that the computer system must discern the state of the world and react to it within stringent response-time constraints. Upon completion of the course, the student will have a basic understanding of how to design, build and integrate hardware and software for an embedded control application. Hands-on experience will be gained by performing laboratory experiments and doing an embedded computer control project on a mechatronic system. Prerequisite: MSE 352, MSE 381 (or ENSC 383), and completion of 90 units. Students who have taken ENSC 351 or 451 cannot take MSE 450 for further credit."},
+        {"id": 52,"name": "MSE451","full_name": "Advanced Electronic Circuits","credit": 4,"desc": "Introduction to advanced topics in electronic circuit design. The emphasis will be on circuits and devices which are needed by mechatronics engineers in practice. Prerequisite: Completion of 80 units including MSE 251 (or ENSC 226). Students with credit for ENSC 325 or 430 may not take MSE 451 for further credit."},
+        {"id": 53,"name": "MSE452","full_name": "Power Conversion in Alternative Energy Systems","credit": 3,"desc": "Introduction to power conversion technologies in alternative energy systems. Main topics include: modern power semiconductors, circuit topologies, switching and control of power converters in alternative energy systems, power quality and grid integration, wind energy systems, solar energy systems, fuel cell systems and others. Prerequisite: MSE 353. Students who took MSE 490 - Selected Topics in Mechatronic Systems Engineering: Power Conversion in Alternative Energy Systems in Summer 2014, 2015, 2016 or 2017 cannot take this course for further credit."},
+        {"id": 54,"name": "MSE480","full_name": "Manufucturing Systems","credit": 3,"desc": "An introduction to manufacturing systems: industrial robotics, manufacturing system components and definitions, material handling systems, production lines, assembly systems, robotic cell design, cellular manufacturing, flexible manufacturing systems, quality control, manufacturing support systems. Prerequisite: MSE 310 (or ENSC 387)and a minimum of 80 credits. Students with credit for ENSC 432 may not take MSE 480 for further credit."},
+        {"id": 55,"name": "MSE481","full_name": "Industrial Control Systems","credit": 3,"desc": "Examines modern industrial control systems and applications. Topics include: review of industrial sensors and actuators; computer interfacing; ladder logic and programmable logic controllers; industrial computer and programming methods; industrial networks; human-machine interfaces; supervisory control and data acquisition (SCADA); manufacturing execution systems; and enterprise-wide integration. Prerequisite: MSE 352 (or ENSC 252) and MSE 381 (or ENSC 383) and a minimum of 80 credits. Students with credit for ENSC 484 may not take MSE 481 for further credit."},
+        {"id": 56,"name": "MSE483","full_name": "Modern Control Systems","credit": 3,"desc": "Analytical representation of the finite dimensional linear systems, analysis and design of linear feedback control systems based on the state space model, and state/output feedback. Topics include: review of the linear spaces and operators, mathematical modelling, state space representation and canonical forms, controllability, observability, realization of transfer function, and solution of the state equation. Applications include: stability concepts and definitions. Lyapunov's Direct Method, design of the state and output feedback control systems, eigenspectrum assignment, and state estimator design. Prerequisite: MSE 381 or ENSC 383 and a minimum of 80 credits. Students with credit for ENSC 483 may not take MSE 483 for further credit."},
+        {"id": 57,"name": "MSE486","full_name": "Directed Studies in Mechatronic Systems Engineering","credit": 4,"desc": "Directed reading and research in a topic chosen in consultation with a supervisor. Admission requires agreement by a proposed faculty supervisor and submission of a proposal to the school at least one month prior to the start of the term in which the course will be taken. Upon completion of a directed study course, the student must submit a copy of the 'deliverables' to the chair of the undergraduate curriculum committee. Prerequisite: A minimum of 100 units and permission of the chair of the undergraduate curriculum committee."},
+        {"id": 58,"name": "MSE487","full_name": "Directed Studies in Mechatronic Systems Engineering","credit": 4,"desc": "Directed reading and research in a topic chosen in consultation with a supervisor. Admission requires agreement by a proposed faculty supervisor and submission of a proposal to the school at least one month prior to the start of the term in which the course will be taken. Upon completion of a directed study course, the student must submit a copy of the 'deliverables' to the chair of the undergraduate curriculum committee. Prerequisite: A minimum of 100 units and permission of the chair of the undergraduate curriculum committee."},
+        {"id": 59,"name": "MSE488","full_name": "Directed Studies in Mechatronic Systems Engineering","credit": 4,"desc": "Directed reading and research in a topic chosen in consultation with a supervisor. Admission requires agreement by a proposed faculty supervisor and submission of a proposal to the school at least one month prior to the start of the term in which the course will be taken. Upon completion of a directed study course, the student must submit a copy of the 'deliverables' to the chair of the undergraduate curriculum committee. Prerequisite: A minimum of 100 units and permission of the chair of the undergraduate curriculum committee."},
+        {"id": 60,"name": "MSE489","full_name": "Directed Studies in Mechatronic Systems Engineering","credit": 4,"desc": "Directed reading and research in a topic chosen in consultation with a supervisor. Admission requires agreement by a proposed faculty supervisor and submission of a proposal to the school at least one month prior to the start of the term in which the course will be taken. Upon completion of a directed study course, the student must submit a copy of the 'deliverables' to the chair of the undergraduate curriculum committee. Prerequisite: A minimum of 100 units and permission of the chair of the undergraduate curriculum committee."},
+        {"id": 61,"name": "MSE490","full_name": "Special Topic: Ocean Technology and the Marine Environment","credit": 3,"desc": "Studies in areas not included within the undergraduate course offerings of the engineering science program. Prerequisite: To be determined by the instructor subject to approval by the department chair."},
+        {"id": 62,"name": "MSE491","full_name": "Special Topic: Flight Dynamics and Control of Unmanned Aerial Vehicles","credit": 3,"desc": "Studies in areas not included within the undergraduate course offerings of the engineering science program. Prerequisite: To be determined by instructor subject to approval by the department chair."},
+        {"id": 63,"name": "MSE492","full_name": "Special Topic in Mechatronic Systems Engineering","credit": 4,"desc": "Studies in areas not included within the undergraduate course offerings of the engineering science program. Prerequisite: To be determined by the instructor subject to approval by the department chair."},
+        {"id": 64,"name": "MSE493","full_name": "Industrial Internship 3","credit": 3,"desc": "Third four month internship in industry. Credit is awarded as in MSE 293. Units from this course do not count towards the units required for an SFU degree. Prerequisite: MSE 393 or 394 and a minimum of 75 units."},
+        {"id": 65,"name": "MSE494","full_name": "Special Internship 3","credit": 3,"desc": "Four month internship in industry or university research environment. Approved entrepreneurial projects will also be accepted. Credit is awarded as in MSE 293. Units from this course do not count towards the units required for an SFU degree. Prerequisite: MSE 393 or 394, a minimum of 75 units and approval of internship co-ordinator required."},
+        {"id": 66,"name": "MSE495","full_name": "Special Project Laboratory","credit": 2,"desc": "This course is intended for students wishing to pursue laboratory research on a specific topic outside the standard course offerings. Each student must be sponsored by a faculty member who will oversee the project. A proposal of the student's special project must be submitted to the school at least one month prior to the start of the term in which the course will be taken. The unit value of the project will be assessed during this review phase and the student will be directed to register in the appropriate course. Upon completion of a special project laboratory course, the student must submit a copy of the 'deliverables' to the chair of the undergraduate curriculum committee. Prerequisite: Permission of the undergraduate curriculum committee chair."},
+        {"id": 67,"name": "MSE496","full_name": "Special Project Laboratory","credit": 3,"desc": "This course is intended for students wishing to pursue laboratory research on a specific topic outside the standard course offerings. Each student must be sponsored by a faculty member who will oversee the project. A proposal of the student's special project must be submitted to the school at least one month prior to the start of the term in which the course will be taken. The unit value of the project will be assessed during this review phase and the student will be directed to register in the appropriate course. Upon completion of a special project laboratory course, the student must submit a copy of the 'deliverables' to the chair of the undergraduate curriculum committee. Prerequisite: Permission of the undergraduate curriculum committee chair."},
+        {"id": 68,"name": "MSE497","full_name": "Special Project Laboratory","credit": 4,"desc": "This course is intended for students wishing to pursue laboratory research on a specific topic outside the standard course offerings. Each student must be sponsored by a faculty member who will oversee the project. A proposal of the student's special project must be submitted to the school at least one month prior to the start of the term in which the course will be taken. The unit value of the project will be assessed during this review phase and the student will be directed to register in the appropriate course. Upon completion of a special project laboratory course, the student must submit a copy of the 'deliverables' to the chair of the undergraduate curriculum committee. Prerequisite: Permission of the undergraduate curriculum committee chair."},
+        {"id": 69,"name": "MSE498","full_name": "Mechatronic Systems Engineering Thesis Proposal","credit": 3,"desc": "Supervised study, research and preliminary work leading to a formal proposal for the thesis project work in MSE 499. This activity can be directly augmented by other course work and by directed study. The locale of the work may be external to the University or within a University laboratory, or may bridge the two locations. Supervision may be by technical personnel at an external organization, or by faculty members, or through some combination. At least one of the supervisors must be a registered professional engineer. A plan for the student's MSE 498 activities must be submitted to the school at the time of enrolment in the course. Completion of the undergraduate thesis project proposal is the formal requirement of this course and the basis upon which it is graded. Grading will be on a pass/fail basis. Prerequisite: At least 115 units or permission of the academic supervisor."},
+        {"id": 70,"name": "MSE499","full_name": "Mechatronic Systems Engineering Undergraduate Thesis","credit": 9,"desc": "A thesis is based on the research or development project that incorporates a significant level of engineering design. This work is typically undertaken in the student's final year, but in no case before the student has completed 115 units. Registration for MSE 499 takes place in the term in which the thesis will be presented and defended. The locale of the work, supervision and other arrangements follow those for MSE 498. Grading of the thesis will be on a pass/fail basis, but recognition will be given to outstanding work. Prerequisite: MSE 498."},
+        {"id": 71,"name": "MATH151","full_name":"Calculus 1","credit": 3,"desc":"Designed for students specializing in mathematics, physics, chemistry, computing science and engineering. Logarithmic and exponential functions, trigonometric functions, inverse functions. Limits, continuity, and derivatives. Techniques of differentiation, including logarithmic and implicit differentiation. The Mean Value Theorem. Applications of differentiation including extrema, curve sketching, Newton's method. Introduction to modeling with differential equations. Polar coordinates, parametric curves. Prerequisite: Pre-Calculus 12 (or equivalent) with a grade of at least A, or MATH 100 with a grade of at least B, or achieving a satisfactory grade on the Simon Fraser University Calculus Readiness Test. Students with credit for either MATH 150, 154 or 157 may not take MATH 151 for further credit. Quantitative."},
+        {"id": 72,"name": "CMPT130","full_name":"Introduction to Computer Programming 1","credit": 3,"desc": "An introduction to computing science and computer programming, using a systems oriented language, such as C or C++. This course introduces basic computing science concepts. Topics will include: elementary data types, control structures, functions, arrays and strings, fundamental algorithms, computer organization and memory management. Prerequisite: BC Math 12 (or equivalent, or any of MATH 100, 150, 151, 154, or 157). Students with credit for CMPT 102, 120, 128 or 166 may not take this course for further credit. Students who have taken CMPT 125, 129 or 135 first may not then take this course for further credit. Quantitative/Breadth-Science."},
+        {"id": 73,"name": "CHEM120","full_name":"General Chemistry 1","credit": 3,"desc": "Atomic and molecular structure; chemical bonding; thermochemistry; elements; periodic table; gases, liquids, solids, and solutions. This course has the same lecture component as CHEM 121 but no laboratory work. Students who intend to take further courses in chemistry should also take CHEM 125 or alternatively take CHEM 121 instead. Prerequisite: Chemistry 12 with a minimum grade of C, or CHEM 110 or 111 with a minimum grade of C-. Students with credit for CHEM 121 or CHEM 123 may not take this course for further credit. Quantitative/Breadth-Science."},
+        {"id": 74,"name": "PHYS140","full_name":"Studio-Physics-Mechanics and Modern Physics","credit": 4,"desc": "A general calculus-based introduction to mechanics taught in an integrated lecture-laboratory environment. Topics include translational and rotational motion, momentum, energy, gravitation, and selected topics in modern physics. Prerequisite: BC Principles of Physics 12, or PHYS 100 or equivalent, with a minimum grade of C-. Corequisite: MATH 150 or 151 or 154. Students with credit for PHYS 125 or 120 or 101 may not take this course for further credit. Quantitative/Breadth-Science."},
+        {"id": 75,"name": "MATH152","full_name":"Calculus 2","credit": 3,"desc": "Riemann sum, Fundamental Theorem of Calculus, definite, indefinite and improper integrals, approximate integration, integration techniques, applications of integration. First-order separable differential equations and growth models. Sequences and series, series tests, power series, convergence and applications of power series. Prerequisite: MATH 150 or 151, with a minimum grade of C-; or MATH 154 or 157 with a grade of at least B. Students with credit for MATH 155 or 158 may not take this course for further credit. Quantitative."},
+        {"id": 76,"name": "MATH232","full_name":"Applied Linear Algebra","credit": 3,"desc": "Linear equations, matrices, determinants. Introduction to vector spaces and linear transformations and bases. Complex numbers. Eigenvalues and eigenvectors; diagonalization. Inner products and orthogonality; least squares problems. An emphasis on applications involving matrix and vector calculations. Prerequisite: MATH 150 or 151 or MACM 101, with a minimum grade of C-; or MATH 154 or 157, both with a grade of at least B. Students with credit for MATH 240 may not take this course for further credit. Quantitative."},
+        {"id": 77,"name": "PHYS141","full_name":"Studio Physics-Optics, Electricity and Magnetism","credit": 4,"desc": "A general calculus-based introduction to electricity, magnetism and optics taught in an integrated lecture-laboratory environment. Topics include electricity, magnetism, simple circuits, optics and topics from applied physics. Prerequisite: PHYS 120 or PHYS 125 or PHYS 140, with a minimum grade of C-, or PHYS 101 with a minimum grade of B. Corequisite: MATH 152 or MATH 155. Students with credit for PHYS 126 or 121 or 102 may not take this course for further credit. Quantitative/Breadth-Science."},
+        {"id": 78,"name": "MATH251","full_name":"Calculus 3","credit": 3,"desc": "Rectangular, cylindrical and spherical coordinates. Vectors, lines, planes, cylinders, quadric surfaces. Vector functions, curves, motion in space. Differential and integral calculus of several variables. Vector fields, line integrals, fundamental theorem for line integrals, Green's theorem. Prerequisite: MATH 152 with a minimum grade of C-; or MATH 155 or MATH 158 with a grade of at least B. Recommended: It is recommended that MATH 240 or 232 be taken before or concurrently with MATH 251. Quantitative."},
+        {"id": 79,"name": "MATH310", "full_name": "Introduction to Ordinary Differential Equations", "credit": 3, "desc": "First-order differential equations, second- and higher-order linear equations, series solutions, introduction to Laplace transform, systems and numerical methods, applications in the physical, biological and social sciences. Prerequisite: MATH 152; or MATH 155/158 with a grade of at least B, MATH 232 or 240. Quantitative."}
     ],
     "availability":[
         {
             "semId":1,
-            "courses": [1,2,3,4,14,15,16,17,23]
+            "sem_name": "Fall",
+            "courses": [10,9,13,1,23,22,19,24,26,16,17,30,31,64,65,42,54,61,62]
         },
         {
             "semId":2,
-            "courses": [5,6,7,8,9,18,19,20,21,24,25,26,27]
+            "sem_name": "Spring",
+            "courses": [2,3,11,14,15,12,7,8,34,38,16,17,30,31,64,65,41]
         },
         {
             "semId":3,
-            "courses": [10,11,12,13,22,28,29,30,31]
+            "sem_name": "Summer",
+            "courses": [4,18,20,25,27,37,39,21,16,17,30,31,64,65,48,51,53,55]
         }
     ],
     "preRequisites":[
-        {
-            "courseId":5,
-            "preReqId": [1]
-        },
-        {
-            "courseId":8,
-            "preReqId":[9]
-        },
-        {
-            "courseId":6,
-            "preReqId": [1]
-        },
-        {
-            "courseId":7,
-            "preReqId": [4]
-        },
-        {
-            "courseId":10,
-            "preReqId": [6]
-        },
-        {
-            "courseId":11,
-            "preReqId": [6,5]
-        },
-        {
-            "courseId":14,
-            "preReqId": [4,6]
-        },
-        {
-            "courseId":15,
-            "preReqId": [3,4]
-        },
-        {
-            "courseId":16,
-            "preReqId": [7,5,11]
-        },
-        {
-            "courseId":18,
-            "preReqId": [4,6,11]
-        },
-        {
-            "courseId":19,
-            "preReqId": [6]
-        },
-        {
-            "courseId":20,
-            "preReqId": [16,11]
-        },
-        {
-            "courseId":21,
-            "preReqId": [4,19,11]
-        },
-        {
-            "courseId":24,
-            "preReqId": [7,1]
-        },
-        {
-            "courseId":25,
-            "preReqId": [6,5]
-        },
-        {
-            "courseId":29,
-            "preReqId": [18,19]
-        },
-        {
-            "courseId":30,
-            "preReqId": [19]
-        },
-        {
-            "courseId":31,
-            "preReqId": [20]
-        }
+        { "courseId":1, "preReqId": [] },
+        { "courseId":2, "preReqId": [] },
+        { "courseId":3, "preReqId": [] },
+        { "courseId":4, "preReqId": [] },
+        { "courseId":5, "preReqId": [] },
+        { "courseId":6, "preReqId": [] },
+        { "courseId":7, "preReqId": [77] },
+        { "courseId":8, "preReqId": [75,76] },
+        { "courseId":9, "preReqId": [73,74] },
+        { "courseId":10, "preReqId": [74,75] },
+        { "courseId":11, "preReqId": [74,75,79] },
+        { "courseId":12, "preReqId": [74,75,79] },
+        { "courseId":13, "preReqId": [77,76,79] },
+        { "courseId":14, "preReqId": [13] },
+        { "courseId":15, "preReqId": [13,79] },
+        { "courseId":16, "preReqId": [] },
+        { "courseId":17, "preReqId": [] },
+        { "courseId":18, "preReqId": [] },
+        { "courseId":19, "preReqId": [15] },
+        { "courseId":20, "preReqId": [11,14] },
+        { "courseId":21, "preReqId": [4,22,26] },
+        { "courseId":22, "preReqId": [1,9,10] },
+        { "courseId":23, "preReqId": [78,74,12] },
+        { "courseId":24, "preReqId": [72,14] },
+        { "courseId":25, "preReqId": [78] },
+        { "courseId":26, "preReqId": [10,11,14] },
+        { "courseId":27, "preReqId": [15] },
+        { "courseId":28, "preReqId": [] },
+        { "courseId":29, "preReqId": [] },
+        { "courseId":30, "preReqId": [16] },
+        { "courseId":31, "preReqId": [16] },
+        { "courseId":32, "preReqId": [18] },
+        { "courseId":33, "preReqId": [2] },
+        { "courseId":34, "preReqId": [3] },
+        { "courseId":35, "preReqId": [] },
+        { "courseId":36, "preReqId": [] },
+        { "courseId":37, "preReqId": [18] },
+        { "courseId":38, "preReqId": [16,30] },
+        { "courseId":39, "preReqId": [38] },
+        { "courseId":40, "preReqId": [38] },
+        { "courseId":41, "preReqId": [9,11] },
+        { "courseId":42, "preReqId": [11,15] },
+        { "courseId":43, "preReqId": [12,23] },
+        { "courseId":44, "preReqId": [12,23] },
+        { "courseId":45, "preReqId": [12,23] },
+        { "courseId":46, "preReqId": [73,74,77] },
+        { "courseId":47, "preReqId": [76,78,22] },
+        { "courseId":48, "preReqId": [15,22,23] },
+        { "courseId":49, "preReqId": [1,11] },
+        { "courseId":50, "preReqId": [11] },
+        { "courseId":51, "preReqId": [24,27] },
+        { "courseId":52, "preReqId": [14] },
+        { "courseId":53, "preReqId": [25] },
+        { "courseId":54, "preReqId": [19] },
+        { "courseId":55, "preReqId": [24,27] },
+        { "courseId":56, "preReqId": [27] },
+        { "courseId":57, "preReqId": [] },
+        { "courseId":58, "preReqId": [] },
+        { "courseId":59, "preReqId": [] },
+        { "courseId":60, "preReqId": [] },
+        { "courseId":61, "preReqId": [] },
+        { "courseId":62, "preReqId": [] },
+        { "courseId":63, "preReqId": [] },
+        { "courseId":64, "preReqId": [30] },
+        { "courseId":65, "preReqId": [30] },
+        { "courseId":66, "preReqId": [] },
+        { "courseId":67, "preReqId": [] },
+        { "courseId":68, "preReqId": [] },
+        { "courseId":69, "preReqId": [] },
+        { "courseId":70, "preReqId": [69] },
+        { "courseId":71, "preReqId": [] },
+        { "courseId":72, "preReqId": [] },
+        { "courseId":73, "preReqId": [] },
+        { "courseId":74, "preReqId": [] },
+        { "courseId":75, "preReqId": [71] },
+        { "courseId":76, "preReqId": [71] },
+        { "courseId":77, "preReqId": [74] },
+        { "courseId":78, "preReqId": [78] },
+        { "courseId":79, "preReqId": [75,76] }
+    ],
+    "unitRequirements":[
+        { "courseId": 18, "units": 75 },
+        { "courseId": 34, "units": 100},
+        { "courseId": 41, "units": 80 },
+        { "courseId": 42, "units": 80 },
+        { "courseId": 43, "units": 80 },
+        { "courseId": 44 ,"units": 80 },
+        { "courseId": 45 ,"units": 80 },
+        { "courseId": 46 ,"units": 80 },
+        { "courseId": 47 ,"units": 80 },
+        { "courseId": 48 ,"units": 80 },
+        { "courseId": 51 ,"units": 90 },
+        { "courseId": 52 ,"units": 80 },
+        { "courseId": 54 ,"units": 80 },
+        { "courseId": 55 ,"units": 80 },
+        { "courseId": 56 ,"units": 80 },
+        { "courseId": 57 ,"units": 100 },
+        { "courseId": 58 ,"units": 100 },
+        { "courseId": 59 ,"units": 100 },
+        { "courseId": 60 ,"units": 100 },
+        { "courseId": 64 ,"units": 75 },
+        { "courseId": 65 ,"units": 75 }
     ]
 }
